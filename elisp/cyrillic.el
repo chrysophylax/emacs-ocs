@@ -39,7 +39,7 @@
  ; yus
  ("eN" ?Ѧ) ("oN" ?ѫ)
  ; yers
-  ("U" ?ъ) ("'I" ?ь)
+  ("U" ?ъ) ("I" ?ь)
  ; iotated vowels
  ("ye" ?ѥ) ("ya" ?ꙗ) ("yu" ?ю)
  ("yeN" ?ѩ) ("yoN" ?ѭ)
