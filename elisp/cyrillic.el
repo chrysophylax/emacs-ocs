@@ -46,8 +46,8 @@
 
  ;diacritics
  ("-" ?҃)  ; titlo
- ("L-" ?︮) ; combining left half titlo
- ("R-" ?︯) ; combining right half titlo
+ ("L" ?︮) ; combining left half titlo
+ ("R" ?︯) ; combining right half titlo
  ("~" ?҇)  ; combining cyrillic pokrytie
  ("`" ?̀ )  ; varia
  ("'" ?́)   ; oksia
