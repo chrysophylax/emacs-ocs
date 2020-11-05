@@ -45,7 +45,14 @@
  ("yeN" ?ѩ) ("yoN" ?ѭ)
 
  ;diacritics
- ("-" ?҃)
+ ("-" ?҃)  ; titlo
+ ("L-" ?︮) ; combining left half titlo
+ ("R-" ?︯) ; combining right half titlo
+ ("~" ?҇)  ; combining cyrillic pokrytie
+ ("`" ?̀ )  ; varia
+ ("'" ?́)   ; oksia
+ ("%" ?̈)   ; trema
+ (":" ?։)  ; armenian full stop
  
  )
 
