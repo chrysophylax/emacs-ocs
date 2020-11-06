@@ -33,10 +33,10 @@
  ; vowels
  ("w" ?ѡ)
  ("i" ?и)  ("y" ?ꙑ)
- ("e" ?є) ("o" ?о)
+ ("e" ?є) ("o" ?о) ("oU"  ["оу"])
  ("/e" ?ѣ) ("/i" ?і)
  ("a" ?а)
- ("u" ?ѹ) ("/u" ?ꙋ)
+ ("u" ["оу"]) ("/u" ?ꙋ)
  ; yus
  ("eN" ?Ѧ) ("oN" ?ѫ)
  ; yers
@@ -44,7 +44,8 @@
  ; iotated vowels
  ("ye" ?ѥ) ("ya" ?ꙗ) ("yu" ?ю)
  ("yeN" ?ѩ) ("yoN" ?ѭ)
-
+ ; special vowels
+ ("oo" ?ꙭ) ; double monocular o
  ;diacritics
  ("-" ?҃)  ; titlo
  ("L" ?︮) ; combining left half titlo
