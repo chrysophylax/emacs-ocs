@@ -28,6 +28,7 @@
  ("F" ?ф)
  ("KS" ?ѯ)
  ("PS" ?ѱ) ("Y" ?ѵ)
+ ("/Y" ?у) ; tailed izhitsa
  ("TH" ?ѳ) ("Q" ?ҁ)
  ; vowels
  ("w" ?ѡ)
