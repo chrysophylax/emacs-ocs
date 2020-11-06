@@ -50,7 +50,10 @@
  ("-" ?҃)  ; titlo
  ("L" ?︮) ; combining left half titlo
  ("R" ?︯) ; combining right half titlo
+ ("[]" ?꙯) ; vzmet
  ("~" ?҇)  ; combining cyrillic pokrytie
+ ("^" 311) ; kamora
+ (")" 486) ; zvatel'tse
  ("`" ?̀ )  ; varia
  ("'" ?́)   ; oksia
  ("%" ?̈)   ; trema
