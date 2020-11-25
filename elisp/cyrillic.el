@@ -59,6 +59,4 @@
  ("%" ?̈)   ; trema
  (":" ?։)  ; armenian full stop
  
- )
-
- 
+)
